@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/os/lswrepo/videoplay/playvideo/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e8fe713b922b1e1bccb6533b7e635610af00378">
+        <dex dex="/Users/os/lswrepo/videoplay/app/build/intermediates/pre-dexed/debug/classes_7e72e524bf5c93c5650d6d7db529c2bc860296e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/os/lswrepo/android-video/playvideo/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2e8fe713b922b1e1bccb6533b7e635610af00378">
+        <dex dex="/Users/os/lswrepo/android-video/app/build/intermediates/pre-dexed/debug/classes_d5064b500256b576dd07354c0b7f7ed97fd12e28.jar" />
+    </item>
+
+</items>
