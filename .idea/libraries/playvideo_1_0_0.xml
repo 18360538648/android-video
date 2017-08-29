@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="playvideo-1.0.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/fd86d69e37ff6a15dc2e12375dcf2b103e4f2776/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/fd86d69e37ff6a15dc2e12375dcf2b103e4f2776/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.lsw/playvideo/1.0.0/8a7ecbba5ae574540c2435e592a87db34426df03/playvideo-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

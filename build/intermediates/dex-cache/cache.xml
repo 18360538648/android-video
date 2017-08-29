@@ -16,7 +16,7 @@
         jumboMode="false"
         optimize="true"
         revision="25.0.3"
-        sha1="2e8fe713b922b1e1bccb6533b7e635610af00378">
+        sha1="60ff52f46880d0f3f89c0ff063cdeebb14061d20">
         <dex dex="/Users/os/lswrepo/android-video/app/build/intermediates/pre-dexed/debug/classes_d5064b500256b576dd07354c0b7f7ed97fd12e28.jar" />
     </item>
 
